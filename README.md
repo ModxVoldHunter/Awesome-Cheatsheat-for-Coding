@@ -4,5 +4,5 @@ a very awesome cheatsheat for coding
 Coding
 * Assembly (WIP)
 * ActionScript (WIP)
-* Bash
-* BASIC
+* Bash (WIP)
+* BASIC (WIP)
