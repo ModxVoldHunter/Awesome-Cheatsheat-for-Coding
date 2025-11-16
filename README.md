@@ -2,7 +2,7 @@
 a very awesome cheatsheat for coding
 
 > Coding
->> Assembly (WIP)
+> * Assembly (WIP)
 >> ActionScript (WIP)
 >> Bash
 >> BASIC
